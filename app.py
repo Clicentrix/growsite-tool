@@ -11,7 +11,7 @@ from typing import Optional
 # Load from .envs
 
 # Read env variables
-GEMINI_API_KEY='AIzaSyC01IfS8b9nxxSNJupKNL35zUOisTbRBvE'
+GEMINI_API_KEY='*'
 COLLECTION_NAME='Growcite_candidate_final'
 QDRANT_HOST='localhost'
 QDRANT_PORT=6333
